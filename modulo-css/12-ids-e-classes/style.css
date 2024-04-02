@@ -1,0 +1,11 @@
+.descricao-produto{
+    background-color: orange;
+}
+
+.promocao{
+    border: solid 10px green;
+}
+
+/* .serve pra designar uma classe e # pra designar uma id
+ids são unicas por pagina
+classes são melhores pra utilizar em diversos locais do site com menos codigos */

@@ -1,0 +1,14 @@
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: brown;
+}
+
+span{
+    color: blueviolet;
+}
+
+/* elementos do display: inline ficam todos na mesma linha
+enquanto o display block conseguimos atribluir blocos pros textos aonde quebra linha */
